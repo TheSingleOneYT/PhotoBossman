@@ -46,7 +46,7 @@ namespace PhotoBossman.Modules
         {
             await Context.Channel.SendMessageAsync("Checking for updates...");
             await Context.Channel.SendMessageAsync("Results have been DM'd to you " + Context.Message.Author.Mention);
-            await Context.User.SendMessageAsync("Could not find Github file specified.");
+            await Context.User.SendMessageAsync("Not added in current version. Check Github for a new release which may have this added.");
         }
 
         [Command("sd")]
