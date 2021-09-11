@@ -26,7 +26,7 @@ Use gs/ to make an attached image greyscale.
 
 # Credits
 
-Made the base bot with the following playlist - https://www.youtube.com/watch?v=gAlcexDm9LM&list=PLaqoc7lYL3ZDCDT9TcP_5hEKuWQl7zudR&t=0s (SEASON 2)
+Made the base bot with the following playlist: https://www.youtube.com/watch?v=gAlcexDm9LM&list=PLaqoc7lYL3ZDCDT9TcP_5hEKuWQl7zudR&t=0s (SEASON 2)
 
 Invert: https://youtu.be/AqRepVUMFs4
 
