@@ -32,4 +32,4 @@ Invert: https://youtu.be/AqRepVUMFs4
 
 Greyscale: https://youtu.be/Ww1BAL8Yh_Y
 
-The licenses to all over used things are in the (Licenses folder)[https://github.com/TheSingleOneYT/PhotoBossman/tree/main/LICENSES].
+The licenses to all over used things are in the [Licenses folder](https://github.com/TheSingleOneYT/PhotoBossman/tree/main/LICENSES).
